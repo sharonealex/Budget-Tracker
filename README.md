@@ -32,6 +32,10 @@ Clone the repo and run `npm i` then  `npm run start` to host the application loc
 * MongoDB
 * Mongoose
 
+## Screenshot of app
+
+![Preview](./public/Capture.PNG)
+
 ## Acceptance Criteria
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
